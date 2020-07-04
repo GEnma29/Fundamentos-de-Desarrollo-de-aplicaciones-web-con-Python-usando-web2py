@@ -6,16 +6,20 @@ en nuestro caso es windows
    `web2py.exe`
    
 al ejecutar la aplicación mostrará la siguiente ventana:
+
+
 [![Esta es una imagen de ejemplo](http://www.web2py.com/books/default/image/29/en400.png)](https://ejemplo.com)
+
+
 Nos pedira que escojamos una contraseña para administrador, Por defecto, web2py ejecuta su servidor web en 127.0.0.1:8000 (puerto 8000 en localhost), pero puede ejecutarlo en cualquier dirección IP y puerto disponibles. Puede consultar la dirección IP de su interfaz de red abriendo CMD o PowerSheel y escribiendo ipconfig en Windows o ifconfig en OS X y Linux. 
 mostrará la siguiente ventana:
 
-[![Esta es una imagen de ejemplo](http://www.web2py.com/books/default/image/29/en500.png)](https://ejemplo.com)
+[![Esta es una imagen de ejemplo 2](http://www.web2py.com/books/default/image/29/en500.png)](https://ejemplo.com)
 
 
 Le damos click a administrative interface nos pedira la contraseña que elegimos 
 
-[![Esta es una imagen de ejemplo](http://www.web2py.com/books/default/image/29/en600.png)](https://ejemplo.com)
+[![Esta es una imagen de ejemplo 3](http://www.web2py.com/books/default/image/29/en600.png)](https://ejemplo.com)
 
 
  Nos Mostrará un pantalla que habrá una serie de carpetas:
@@ -42,7 +46,7 @@ Le damos click a administrative interface nos pedira la contraseña que elegimos
 
 ## Ejemplo (Simple examples)
 Crearemos una pequeña App Para el  nombre de Nuestra App pensamos en un gestor de tiempo que le permita al usuario administrar sus actividades diarias. en nuestro caso KalenderApp
-luego de introducir el nombre se nos presentara esta pequeña pantalla
+luego de introducir el nombre se nos presentara esta pequeña pantalla:
 
-![Screenshot](miAPP.png)
+![miAPP](https://user-images.githubusercontent.com/53823068/86501952-e20eea00-bd6b-11ea-9930-42347cffd4c7.JPG)
 
